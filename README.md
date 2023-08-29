@@ -1,6 +1,6 @@
 # Depretect: depression detection with a LDA model
 
-In this github we collect the materials used for our Final Project of the course Applications for NLP II.
+Detection of emerging topics related to depression from Reddit postsusing the Latent Dirichlet Allocation (LDA) method.
 
 ## Introduction 
 
@@ -34,3 +34,9 @@ Other types of results show words and texts by similarity taking a specific word
 ## Conclusions and Future Work
 
 This model is able to differentiate different topics that are actually problems leading to depression. It can be usefull to detect this kind of sub-problems in texts. Finally, we encourage researchers to improve this model inproving the preprocessing part making it more selective so it deletes words such as "thing" or "see" in order to obtain more specific topics. 
+
+
+
+--------------------------------------------------------------------------------
+Final project for NLP Applications II - Master in Language Analysis and Processing, University of the Basque Country, 2022-2023.
+Cristina Fernández and Julia Fidalgo
