@@ -39,4 +39,5 @@ This model is able to differentiate different topics that are actually problems 
 
 --------------------------------------------------------------------------------
 Final project for NLP Applications II - Master in Language Analysis and Processing, University of the Basque Country, 2022-2023.
+
 Cristina Fernández and Julia Fidalgo
